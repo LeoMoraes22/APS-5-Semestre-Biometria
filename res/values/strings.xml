@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ministerio Do Meio Ambiente</string>
+    <string name="minist_rio_do_meio_ambiente">MINISTÉRIO DO MEIO AMBIENTE</string>
+    <string name="cadastro_de_usu_rio">Cadastro de Usuário</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="n_mero_de_celular">Número de Celular</string>
+    <string name="voltar">Voltar</string>
+    <string name="e_mail">E-mail</string>
+    <string name="ministerio_do_meio_ambiente">MINISTÉRIO DO MEIO AMBIENTE</string>
+    <string name="est_aplica_o_consiste_em_mostrar_informa_es_sobre_o_uso_de_agrot_xicos_proibidos_que_causam_grandes_impactos_nos_len_is_fre_ticos_rios_e_mares">Está aplicação consiste em mostrar informações sobre o uso de agrotóxicos proibidos que causam grandes impactos nos lençõis freáticos, rios e mares.</string>
+    <string name="login">Login</string>
+    <string name="cadastrar_novo_usu_rio">Cadastrar Novo Usuário</string>
+    <string name="nivel_de_gerenciamento">Nível de Gerenciamento</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar_se">Cadastrar-se</string>
+    <string name="selecione_o_n_vel_de_acesso_do_us_ario">Selecione o nível de acesso do usúario</string>
+    <string name="acesso_ao_sistema">Acesso ao Sistema</string>
+    <string name="logar_se">Logar-se</string>
+    <string name="e_mailLogin">E-mail</string>
+    <string name="bem_vindo">Bem Vindo</string>
+    <string name="logout">Logout</string>
+    <string name="acesso_com_biometria">Acesso com Biometria</string>
+    <string name="informe_seu_n_vel_de_acesso">Informe seu nível de acesso</string>
+    <string name="n_vel">Nível:</string>
+    <string name="nome">Nome:</string>
+</resources>
